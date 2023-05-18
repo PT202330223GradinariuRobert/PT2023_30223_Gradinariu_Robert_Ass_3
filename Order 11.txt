@@ -1,0 +1,19 @@
+ORDER BILL NO. 11
+---------------------------------
+Client:
+	Name: ROBICA
+	Address: strada dada
+	Email: arondd
+---------------------------------
+Products:
+---------------------------------
+	Product: telefoane
+		Quantity: 2
+		Price: 12
+Units x $: 2 x 12 $ = 24 $
+	Product: casti
+		Quantity: 22
+		Price: 20
+Units x $: 22 x 20 $ = 440 $
+
+		Total: 464 $

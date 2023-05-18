@@ -1,0 +1,15 @@
+ORDER BILL NO. 55
+---------------------------------
+Client:
+	Name: Robert
+	Address: Strada Iuliu Coroian
+	Email: denisaesmk@yahoo.com
+---------------------------------
+Products:
+---------------------------------
+	Product: telefoane
+		Quantity: 3
+		Price: 12
+Units x $: 3 x 12 $ = 36 $
+
+		Total: 36 $

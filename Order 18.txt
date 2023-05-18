@@ -1,0 +1,14 @@
+BILL COMAND NO. 18
+---------------------------------
+Client:
+	Name: ROBICA
+	Address: strada dada
+	Email: arondd
+---------------------------------
+Products:
+---------------------------------
+	Product: telefoane
+		Quantity: 20
+		Price: 12
+$$: 20 x 12 $ = 240 $
+Total: 20 $

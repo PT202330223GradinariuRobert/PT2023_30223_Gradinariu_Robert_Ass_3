@@ -1,0 +1,15 @@
+ORDER BILL NO. 1
+---------------------------------
+Client:
+	Name: ROBICA
+	Address: strada dada
+	Email: arondd
+---------------------------------
+Products:
+---------------------------------
+	Product: telefoane
+		Quantity: 1
+		Price: 12
+Units x $: 1 x 12 $ = 12 $
+
+		Total: 12 $
