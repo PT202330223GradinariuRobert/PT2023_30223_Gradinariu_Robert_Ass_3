@@ -1,0 +1,5 @@
+org.jk.explore.java.BusinessLogic
+org.jk.explore.java.Connection
+org.jk.explore.java.DataAccess
+org.jk.explore.java.Model
+org.jk.explore.java.Presentation

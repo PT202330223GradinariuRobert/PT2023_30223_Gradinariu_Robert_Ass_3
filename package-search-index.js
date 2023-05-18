@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.jk.explore.java.BusinessLogic"},{"l":"org.jk.explore.java.Connection"},{"l":"org.jk.explore.java.DataAccess"},{"l":"org.jk.explore.java.Model"},{"l":"org.jk.explore.java.Presentation"}];updateSearchResults();
