@@ -1,8 +1,5 @@
 # Warehouse Management System
 
-## Author
-- **Name**: Grădinariu Robert-Iulian
-- **Group**: 30223 CTI
 
 ## Table of Contents
 1. [Project Objective](#project-objective)  
